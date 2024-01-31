@@ -1,4 +1,4 @@
-Flask
+Flask==3.0.0
 joblib
 bnlearn
 numpy==1.25.2
