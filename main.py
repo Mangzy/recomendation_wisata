@@ -6,7 +6,7 @@ import json
 app = Flask(__name__)
 
 @app.route('/')
-def index():
+def home():
     return 'Hello World'
 
 @app.route('/predict', methods=['POST'])
