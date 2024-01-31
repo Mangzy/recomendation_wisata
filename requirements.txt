@@ -1,6 +1,4 @@
 Flask
-scikit-learn
-flasgger
-pandas
+joblib
 bnlearn
 numpy==1.25.2
